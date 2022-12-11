@@ -1,0 +1,8 @@
+.nav-items button{
+    border-radius: 0px;
+  
+  }
+  .nav-btn:first-child {
+    border-bottom: 1px solid black;
+  }
+  

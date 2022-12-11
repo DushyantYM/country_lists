@@ -1,0 +1,11 @@
+card {
+    border: 1px solid black;
+}
+
+.card img {
+    float : left;
+    height: 90px;
+    width: 100px;
+    object-fit: cover;
+    
+}

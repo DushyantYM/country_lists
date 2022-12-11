@@ -1,0 +1,87 @@
+
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    height: 100vh;
+}
+.icons button{
+    height: 4rem;
+    border-radius: 3rem;
+    border: 1px solid black;
+}
+.icons{
+    justify-content: space-between;
+    height: 10px;
+}
+.form{
+    
+    margin: 2rem;
+    padding: 1rem; 
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: fit-content;
+    margin: 0rem 2rem ;
+
+}
+.link {
+    text-decoration: none;
+    margin: 1rem;
+}
+h6 {
+    width: 100%; 
+    text-align: center; 
+    border-bottom: 1px solid #000; 
+    line-height: 0.1em;
+    margin: 10px 0 20px; 
+
+ } 
+ 
+ h6 span { 
+     background:#fff; 
+     padding:0 10px; 
+ }
+ .checkbox-text  {
+    margin: 1rem;
+ }
+ .css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root{
+
+    border-radius: 0px !important;
+    height: 50px;
+    border: 1.5px solid  black;
+ }
+ .signin-text{
+    font-size : 2rem;
+    font-weight: bold;
+ }
+ .newuser-text{
+
+    font-size : 1rem;
+    font-weight: bold;
+
+ }
+ .newuser-text a {
+    margin: 1rem;
+    text-decoration: none;
+    cursor: pointer;
+ }
+.big-img{
+    margin: 7rem;
+}
+@media screen and (max-width : 844px) {
+    .big-img img {
+        display: none;
+    }
+    
+}
+.signin-btn{
+    width : 100%;
+    background-color: black !important;
+    border-radius: 0px;
+}
+
+ 
